@@ -1,0 +1,6 @@
+/deep_sort/
+/ultralytics
+/myenv
+/__pycache__/
+*/__pycache__/
+/.gitmodules
